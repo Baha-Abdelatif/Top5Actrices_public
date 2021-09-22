@@ -1,0 +1,10 @@
+#bloc1{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  display: inline-block;
+  position: absolute;
+  top: 120px;
+  left: 5px;
+  margin: 20px;
+  }
